@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IronsideF
 - 👀 I’m interested in how code works and how to write elegant code
-- 🌱 I’m currently learning Python3. Doing a 16 week bootcamp, so hope to be proficient in Javascript and Java as well by the end.
+- 🌱 I’m currently learning JavaScript. In week 7 of a 16 week bootcamp, have covered Python3 and hope to be proficient in Java as well by the end.
 - 💞️ I’m looking to collaborate on learning at the moment.
 - 📫 How to reach me ironsideforsyth@gmail.com
 
