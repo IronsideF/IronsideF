@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IronsideF
 - 👀 I’m interested in how code works and how to write elegant code
-- 🌱 I’m currently learning C#. Just finished a 16 week bootcamp, covering Python3, JavaScript, React, Java and Spring.
-- 💞️ I’m looking to collaborate on learning at the moment.
+- 🌱 I’m currently working at SeeByte on C# UIs. Have previous experience with Java, Python, JavaScript and React
+- 💞️ I’m looking to build my skills
 - 📫 How to reach me ironsideforsyth@gmail.com
 
 <!---
